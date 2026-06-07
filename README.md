@@ -88,7 +88,7 @@ This skill helps organize and revise academic writing, but it does not replace i
 
 ## Source Inspiration
 
-The skill is inspired by university library guidance on organizing academic research papers, especially the practical writing competencies reflected in Sacred Heart University Library's research paper organization guide. It converts those competencies into a reusable Codex workflow for topic narrowing, paper architecture, argument mapping, and revision.
+The skill is inspired by Sacred Heart University Library's [Organizing Academic Research Papers](https://library.sacredheart.edu/c.php?g=29803&p=185901) guide. It converts the guide's practical writing competencies into a reusable Codex workflow for topic narrowing, paper architecture, argument mapping, and revision.
 
 ## License
 

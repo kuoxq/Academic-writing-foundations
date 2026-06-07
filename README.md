@@ -39,13 +39,13 @@ Clone this repository into your Codex skills directory.
 macOS/Linux:
 
 ```bash
-git clone https://github.com/kuoxq/kuoxq-academic-writing-foundations.git ~/.codex/skills/academic-writing-foundations
+git clone https://github.com/kuoxq/Academic-writing-foundations.git ~/.codex/skills/academic-writing-foundations
 ```
 
 Windows PowerShell:
 
 ```powershell
-git clone https://github.com/kuoxq/kuoxq-academic-writing-foundations.git "$env:USERPROFILE\.codex\skills\academic-writing-foundations"
+git clone https://github.com/kuoxq/Academic-writing-foundations.git "$env:USERPROFILE\.codex\skills\academic-writing-foundations"
 ```
 
 Then invoke it in Codex with:

@@ -34,10 +34,18 @@ This skill is especially useful before using heavier research workflows, when th
 
 ## Installation
 
-Clone this repository into your Codex skills directory:
+Clone this repository into your Codex skills directory.
+
+macOS/Linux:
 
 ```bash
 git clone https://github.com/kuoxq/kuoxq-academic-writing-foundations.git ~/.codex/skills/academic-writing-foundations
+```
+
+Windows PowerShell:
+
+```powershell
+git clone https://github.com/kuoxq/kuoxq-academic-writing-foundations.git "$env:USERPROFILE\.codex\skills\academic-writing-foundations"
 ```
 
 Then invoke it in Codex with:
@@ -46,11 +54,32 @@ Then invoke it in Codex with:
 Use $academic-writing-foundations to turn my broad paper topic into a research question, outline, and revision checklist.
 ```
 
+## Suggested GitHub Topics
+
+Recommended repository topics:
+
+```text
+codex-skill, academic-writing, research-paper, writing-assistant, study-skills
+```
+
+## Versioning
+
+Use GitHub releases or tags for stable versions. A suitable first release tag is:
+
+```text
+v0.1.0
+```
+
+## Usage Boundary
+
+This skill helps organize and revise academic writing, but it does not replace instructor guidance, supervisor feedback, journal requirements, institutional policies, or formal citation and source verification.
+
 ## Repository Structure
 
 ```text
 .
 ├── SKILL.md
+├── LICENSE
 ├── agents/
 │   └── openai.yaml
 └── references/
@@ -60,3 +89,7 @@ Use $academic-writing-foundations to turn my broad paper topic into a research q
 ## Source Inspiration
 
 The skill is inspired by university library guidance on organizing academic research papers, especially the practical writing competencies reflected in Sacred Heart University Library's research paper organization guide. It converts those competencies into a reusable Codex workflow for topic narrowing, paper architecture, argument mapping, and revision.
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic Writing Foundations"
+  short_description: "Plan paper topics, structure, and arguments."
+  default_prompt: "Use $academic-writing-foundations to turn my broad paper topic into a research question, outline, and revision checklist."
